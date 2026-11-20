@@ -1,6 +1,6 @@
 # Hi, I'm Yeasin Arafat Riad
 
-**Business analytics** · MSc Information Systems student · Oslo, Norway
+**Business analytics** · MSc Information Systems (Business Analytics) student · Oslo, Norway
 
 I turn raw transactional data into decisions. I clean and test the data, build analysis in SQL and Python, and present it in dashboards that a product or sales team can act on. I check headline numbers in a second tool before I report them.
 
@@ -33,4 +33,6 @@ Tableau Prep flows and six dashboards built on 3.2 million logistics shipments a
 
 ## Education
 
-**MSc in Information Systems**, Kristiania University College, Oslo
+**MSc in Information Systems, Business Analytics**, Kristiania University of Applied Sciences, Oslo
+
+**BSc in Computer Science and Engineering** (major: Information Systems), American International University-Bangladesh (AIUB)
